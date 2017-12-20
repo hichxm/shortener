@@ -14,7 +14,7 @@ namespace Symfony\Component\Console\Formatter;
 use Symfony\Component\Console\Exception\InvalidArgumentException;
 
 /**
- * @author Jean-François Simon <contact@jfsimon.fr>
+ * @author Jean-François Simon <contacts@jfsimon.fr>
  */
 class OutputFormatterStyleStack
 {

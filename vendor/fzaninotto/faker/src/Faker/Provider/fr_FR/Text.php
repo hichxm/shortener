@@ -8640,7 +8640,7 @@ Elle s'arrêta.
 
 L'idée qu'elle venait d'échapper à la mort faillit la faire
 s'évanouir de terreur; elle ferma les yeux; puis elle tressaillit
-au contact d'une main sur sa manche: c'était Félicité.
+au contacts d'une main sur sa manche: c'était Félicité.
 
 -- Monsieur vous attend, Madame; la soupe est servie.
 
@@ -9692,7 +9692,7 @@ fruit d'or suspendu à quelque feuillage fantastique.
 
 Puis, en la revoyant après trois années d'absence, sa passion se
 réveilla. Il fallait, pensa-t-il, se résoudre enfin à la vouloir
-posséder. D'ailleurs, sa timidité s'était usée au contact des
+posséder. D'ailleurs, sa timidité s'était usée au contacts des
 compagnies folâtres, et il revenait en province, méprisant tout ce
 qui ne foulait pas d'un pied verni l'asphalte du boulevard. Auprès
 d'une Parisienne en dentelles, dans le salon de quelque docteur
@@ -10598,7 +10598,7 @@ bras ouverts et lui dit avec des larmes dans la voix:
 
 -- Ah! ma chère amie...
 
-Et il s'inclina doucement pour l'embrasser. Mais, au contact de
+Et il s'inclina doucement pour l'embrasser. Mais, au contacts de
 ses lèvres, le souvenir de l'autre la saisit, et elle se passa la
 main sur son visage en frissonnant.
 
@@ -15463,11 +15463,11 @@ EOT;
     Fairbanks, AK, 99712., but its volunteers and employees are scattered
     throughout numerous locations.  Its business office is located at
     809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-    business@pglaf.org.  Email contact links and up to date contact
+    business@pglaf.org.  Email contacts links and up to date contacts
     information can be found at the Foundation's web site and official
     page at http://pglaf.org
 
-    For additional contact information:
+    For additional contacts information:
          Dr. Gregory B. Newby
          Chief Executive and Director
          gbnewby@pglaf.org

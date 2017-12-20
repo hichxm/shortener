@@ -174,7 +174,7 @@ class MimeTypeExtensionGuesser implements ExtensionGuesserInterface
         'application/vnd.cluetrust.cartomobile-config' => 'c11amc',
         'application/vnd.cluetrust.cartomobile-config-pkg' => 'c11amz',
         'application/vnd.commonspace' => 'csp',
-        'application/vnd.contact.cmsg' => 'cdbcmsg',
+        'application/vnd.contacts.cmsg' => 'cdbcmsg',
         'application/vnd.cosmocaller' => 'cmc',
         'application/vnd.crick.clicker' => 'clkx',
         'application/vnd.crick.clicker.keyboard' => 'clkk',

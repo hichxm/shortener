@@ -18,7 +18,7 @@ namespace Symfony\Component\Translation\Catalogue;
  * obsolete = source ∖ all = {x: x ∈ source ∧ x ∉ source ∧ x ∉ target} = ∅
  * Basically, the result contains messages from both catalogues.
  *
- * @author Jean-François Simon <contact@jfsimon.fr>
+ * @author Jean-François Simon <contacts@jfsimon.fr>
  */
 class MergeOperation extends AbstractOperation
 {

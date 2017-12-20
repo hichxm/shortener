@@ -38,4 +38,5 @@ class Route extends Facade
     {
         return 'router';
     }
+
 }

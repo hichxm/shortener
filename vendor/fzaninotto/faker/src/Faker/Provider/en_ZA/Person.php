@@ -42,7 +42,7 @@ class Person extends \Faker\Provider\Person
         'Sizwe', 'Stanley', 'Stefan', 'Stephan', 'Stephen', 'Steve', 'Steven', 'Stuart', 'Tebogo', 'Terence', 'Thabang', 'Thabiso',
         'Thabo', 'Thando', 'Thapelo', 'Themba', 'Theo', 'Thomas', 'Timothy', 'To ', 'Tony', 'Trevor', 'Tshepo', 'Tsholofelo',
         'Vernon', 'Victor', 'Vincent', 'Walter', 'Warren', 'Wayne', 'Werner', 'Wesley', 'Willem', 'William', 'Willie', 'Wynand',
-        'Xolani', 'Yusuf', 'andries', 'barend', 'contact', 'dumisani', 'jacobus', 'kabelo', 'kagiso', 'karabo', 'lesego', 'marthinus',
+        'Xolani', 'Yusuf', 'andries', 'barend', 'contacts', 'dumisani', 'jacobus', 'kabelo', 'kagiso', 'karabo', 'lesego', 'marthinus',
         'mashudu', 'next', 'nhlanhla', 'nicolaas', 'nkosinathi', 'personal', 'sello', 'sifiso', 'takalani', 'teboho', 'thulani', 'tumelo',
         'vusi', 'your',
         // below are unknown gender firstnames

@@ -17,7 +17,7 @@ namespace Symfony\Component\HttpFoundation;
  * An accept header is compound with a list of items,
  * sorted by descending quality.
  *
- * @author Jean-François Simon <contact@jfsimon.fr>
+ * @author Jean-François Simon <contacts@jfsimon.fr>
  */
 class AcceptHeader
 {

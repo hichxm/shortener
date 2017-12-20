@@ -2836,7 +2836,7 @@ EOT;
          payable to "Project Gutenberg Literary Archive Foundation"
          the 60 days following each date you prepare (or were
          legally required to prepare) your annual (or equivalent
-         periodic) tax return.  Please contact us beforehand to
+         periodic) tax return.  Please contacts us beforehand to
          let us know your plans and to work out the details.
 
     WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
@@ -2850,7 +2850,7 @@ EOT;
     "Project Gutenberg Literary Archive Foundation."
 
     If you are interested in contributing scanning equipment or
-    software or other items, please contact Michael Hart at:
+    software or other items, please contacts Michael Hart at:
     hart@pobox.com
 
     [Portions of this eBook's header and trailer may be reprinted only

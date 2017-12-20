@@ -3,7 +3,7 @@
 namespace Faker\Provider\da_DK;
 
 /**
- * @author Antoine Corcy <contact@sbin.dk>
+ * @author Antoine Corcy <contacts@sbin.dk>
  */
 class Company extends \Faker\Provider\Company
 {

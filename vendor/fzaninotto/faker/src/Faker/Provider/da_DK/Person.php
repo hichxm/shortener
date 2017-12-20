@@ -5,7 +5,7 @@ namespace Faker\Provider\da_DK;
 /**
  * @link http://www.danskernesnavne.navneforskning.ku.dk/Personnavne.asp
  *
- * @author Antoine Corcy <contact@sbin.dk>
+ * @author Antoine Corcy <contacts@sbin.dk>
  */
 class Person extends \Faker\Provider\Person
 {

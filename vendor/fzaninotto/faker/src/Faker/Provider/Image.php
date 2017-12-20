@@ -100,7 +100,7 @@ class Image extends Base
         }
 
         if (!$success) {
-            // could not contact the distant URL or HTTP error - fail silently.
+            // could not contacts the distant URL or HTTP error - fail silently.
             return false;
         }
 

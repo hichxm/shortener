@@ -1968,11 +1968,11 @@ EOT;
     Fairbanks, AK, 99712., but its volunteers and employees are scattered
     throughout numerous locations.  Its business office is located at
     809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-    business@pglaf.org.  Email contact links and up to date contact
+    business@pglaf.org.  Email contacts links and up to date contacts
     information can be found at the Foundation's web site and official
     page at http://pglaf.org
 
-    For additional contact information:
+    For additional contacts information:
          Dr. Gregory B. Newby
          Chief Executive and Director
          gbnewby@pglaf.org

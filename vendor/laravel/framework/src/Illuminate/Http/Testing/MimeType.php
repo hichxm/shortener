@@ -158,7 +158,7 @@ class MimeType
         'c11amc' => 'application/vnd.cluetrust.cartomobile-config',
         'c11amz' => 'application/vnd.cluetrust.cartomobile-config-pkg',
         'csp' => 'application/vnd.commonspace',
-        'cdbcmsg' => 'application/vnd.contact.cmsg',
+        'cdbcmsg' => 'application/vnd.contacts.cmsg',
         'cmc' => 'application/vnd.cosmocaller',
         'clkx' => 'application/vnd.crick.clicker',
         'clkk' => 'application/vnd.crick.clicker.keyboard',

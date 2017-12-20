@@ -12,7 +12,7 @@
 namespace Symfony\Component\Finder\Exception;
 
 /**
- * @author Jean-François Simon <contact@jfsimon.fr>
+ * @author Jean-François Simon <contacts@jfsimon.fr>
  *
  * @deprecated since 3.3, to be removed in 4.0.
  */

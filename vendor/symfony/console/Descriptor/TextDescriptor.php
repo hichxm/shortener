@@ -22,7 +22,7 @@ use Symfony\Component\Console\Input\InputOption;
 /**
  * Text descriptor.
  *
- * @author Jean-François Simon <contact@jfsimon.fr>
+ * @author Jean-François Simon <contacts@jfsimon.fr>
  *
  * @internal
  */

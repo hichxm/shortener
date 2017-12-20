@@ -22,7 +22,7 @@ use Symfony\Component\Console\Exception\InvalidArgumentException;
 /**
  * This class adds helper method to describe objects in various formats.
  *
- * @author Jean-François Simon <contact@jfsimon.fr>
+ * @author Jean-François Simon <contacts@jfsimon.fr>
  */
 class DescriptorHelper extends Helper
 {
